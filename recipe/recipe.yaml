@@ -15,7 +15,7 @@ build:
 
 requirements:
   build:
-    - openjdk =21
+    - openjdk =17
   run:
     - openjdk
 
